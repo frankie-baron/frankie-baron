@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @frankie-baron
 - 👀 I’m interested in iOS 
+- 🧑🏻‍💻 I'm contributing at StackOverflow as [Frankie Baron](https://stackoverflow.com/users/22907942/frankie-baron)
+- 🫱🏿‍🫲🏻 I'm open for collaboration!
 - 📫 You can reach me at hello@frankiebaron.com
 
 
